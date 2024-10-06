@@ -1,3 +1,3 @@
-# Project1
+# SIMON SAYS
 Simon says
 Projects repo
